@@ -14,7 +14,7 @@ Mobile Frame System is a mod for KSP game and an original work of riocrokite (gi
 
 ### Dependencies
 
-For mod to work you need to have installed latest versions of 2 modules. Please check before downloading whether you haven't already installed them.
+This mod requires the latest versions of 2 modules. Please check before downloading whether you haven't already installed them.
 
 * Firespitter.dll plugin by snjo (for part versions switching)
 
@@ -24,7 +24,7 @@ choose option - 'download plugin' (single file)
 
 
 
-* JSIPartUtilities.dll (for node switching)
+* JSIPartUtilities.dll by Mihara (for node switching)
  
 https://github.com/Mihara/PartUtilities/releases
 
